@@ -1,1 +1,1 @@
-# hosted
+# Hosted Page
